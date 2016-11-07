@@ -44,3 +44,8 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #Production,Development,Test (3 databases)
+
+
+#Model View Controller frameworks
+
+#bundle exec rails g model post body:text title author public:boolean    (post=model)
